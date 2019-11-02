@@ -51,3 +51,10 @@ createState() 함수가 실행되면, BuildContext에 state가 할당된다.
 
 initState()는 오직 한 번 사용된다. 반드시 `super.initState()`와 사용해야 한다.
 
+
+
+#### 4. didChangeDependencies()
+
+didChangeDependencies 메소드는 위젯이 build될 때, initState()가 실행된 후 실행된다.
+
+build 메소드는 항상 didChaneDependencies가 호출 된 뒤에 호출된다.
