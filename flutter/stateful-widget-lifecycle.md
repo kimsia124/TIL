@@ -96,4 +96,3 @@ dispose()는 State가 삭제될 때 호출된다. 이 메소드를 호출하면 
 #### 10. mounted == false
 
 State가 unmount되면 절대 remount 할 수 없다. BuildContext 내부의 `bool this.mounted`를 false로 바꾼다.
-
