@@ -33,6 +33,6 @@
 `chmod` 명령어를 사용한다.
 
 ```
-chmod -R 777 filename // 모든 사용자 권한 허용
+chmod 777 filename // 모든 사용자 권한 허용
 ```
 
