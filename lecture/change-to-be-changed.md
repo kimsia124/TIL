@@ -20,7 +20,7 @@
 
 1. Catch The wave
 2. Ride The Urgent
-3. Roght Surfboard
+3. Rough Surfboard
 
 ### 1. Catch The Wave
 
